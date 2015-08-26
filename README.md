@@ -1,5 +1,5 @@
 # Tencent-Recruitment
-Things about Tencent Recruitment
+TST 相当于是额外多一次机会，大家要加油哟！
 
 ## 重要
 
