@@ -26,3 +26,5 @@ TST 相当于是额外多一次机会，大家要加油哟！
 ![](http://ww4.sinaimg.cn/large/644eac00gw1eun8v2b40fj217g0jidka.jpg)
 
 TST 招聘海报：https://v2ex.com/t/207317
+
+[关于简历投递的几个小建议](https://www.v2ex.com/t/124229)
